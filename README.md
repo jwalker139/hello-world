@@ -1,3 +1,3 @@
 # hello-world
  A Practice Repositiry
-Writing
+ No info about myself
